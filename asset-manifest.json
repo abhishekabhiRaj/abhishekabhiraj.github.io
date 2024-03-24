@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abhishekabhiRaj.github.io/static/css/main.5e762743.css",
-    "main.js": "/abhishekabhiRaj.github.io/static/js/main.de03f795.js",
+    "main.js": "/abhishekabhiRaj.github.io/static/js/main.608a23d9.js",
     "static/media/project-6.png": "/abhishekabhiRaj.github.io/static/media/project-6.051fb2e2935685c4f1ae.png",
     "static/media/project-4.png": "/abhishekabhiRaj.github.io/static/media/project-4.5a1aae0743b42f504f30.png",
     "static/media/project-new-5.jpg": "/abhishekabhiRaj.github.io/static/media/project-new-5.fd5fc105c0ce529c8e07.jpg",
@@ -10,14 +10,13 @@
     "static/media/project-3.jpg": "/abhishekabhiRaj.github.io/static/media/project-3.958be988eb43058bd137.jpg",
     "static/media/project-5.png": "/abhishekabhiRaj.github.io/static/media/project-5.61aa84035e8ff5a95a47.png",
     "static/media/icon-dev.svg": "/abhishekabhiRaj.github.io/static/media/icon-dev.2a51ebae3899ae5ab67adf9875f02393.svg",
-    "static/media/icon-design.svg": "/abhishekabhiRaj.github.io/static/media/icon-design.d6326a90fb3a6e270b2fbf68c58759cb.svg",
     "static/media/icon-app.svg": "/abhishekabhiRaj.github.io/static/media/icon-app.db860430683b57c1968ad231a13af0bf.svg",
     "index.html": "/abhishekabhiRaj.github.io/index.html",
     "main.5e762743.css.map": "/abhishekabhiRaj.github.io/static/css/main.5e762743.css.map",
-    "main.de03f795.js.map": "/abhishekabhiRaj.github.io/static/js/main.de03f795.js.map"
+    "main.608a23d9.js.map": "/abhishekabhiRaj.github.io/static/js/main.608a23d9.js.map"
   },
   "entrypoints": [
     "static/css/main.5e762743.css",
-    "static/js/main.de03f795.js"
+    "static/js/main.608a23d9.js"
   ]
 }
